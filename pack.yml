@@ -1,6 +1,6 @@
 id: GALACTICA
 author: Sancires
-version: alpha-1.0.0
+version: 0.0.1
 
 addons:
   biome-provider-pipeline: "1.+"
