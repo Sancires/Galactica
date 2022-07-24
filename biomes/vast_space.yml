@@ -1,0 +1,10 @@
+id: VAST_SPACE
+vanilla: minecraft:end_barrens
+
+terrain:
+  sampler:
+    type: LINEAR_HEIGHTMAP
+    base: -64
+
+palette:
+  - BLOCK:minecraft:air: 319

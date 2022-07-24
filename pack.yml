@@ -11,3 +11,11 @@ addons:
 generator: NOISE_3D
 
 
+##############################
+#### Biome layout handler ####
+##############################
+biomes:
+  type: SINGLE
+  biome: VAST_SPACE
+
+
